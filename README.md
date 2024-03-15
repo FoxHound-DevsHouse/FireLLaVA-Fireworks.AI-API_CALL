@@ -1,7 +1,3 @@
-Certainly! Below is the README.md file for this updated Python script:
-
----
-
 # Fireworks AI Chatbot API Integration with Image Input
 
 This Python script demonstrates how to integrate with the Fireworks AI Chatbot API to generate responses based on user input, including text and image data.
